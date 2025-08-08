@@ -6,9 +6,10 @@
 .tmp
 .irys
 /.VSCodeCounter
-.vscode
 !.vscode/launch.json
 ext/
 config.toml
 emission_simulation.csv
 .local/
+config.bat
+node_modules
